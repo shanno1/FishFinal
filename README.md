@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
 ####Name: Mark Shanahan
 ####SID: D11124846
 
-
+Note: All Scripts are in folder assets/scripts/ and all scenes are in assets/scenes/
 
 #Outlined Story:
 --------------------------------------
